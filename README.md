@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @parkerlawsonengineer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+University of Arizona Graduate
+BS in Electrical and Computer Engineering
+
+Senior Developer with 6 years of experience in Software Engineering and Web Development
+
+Experienced with:
+C/C++/Rust/JavaScript
+Git/Vim/Office Suite/Visual Studio/VS Code
+
 
 <!---
 parkerlawsonengineer/parkerlawsonengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
